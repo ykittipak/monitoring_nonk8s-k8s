@@ -7,7 +7,7 @@ Basic knowledge.
 You must understand about docker container, docker compose, kubernetes
 You must understand about loki, garafa and prometheus
 Referrence:
-  Kubernetes: https://kubernetes.io/
-  Loki: https://grafana.com/docs/loki/latest/
-  Prometheus: https://prometheus.io/docs/introduction/overview/
-  Grafana: https://grafana.com/docs/grafana/latest/
+1. Kubernetes: https://kubernetes.io/
+2. Loki: https://grafana.com/docs/loki/latest/
+3. Prometheus: https://prometheus.io/docs/introduction/overview/
+4. Grafana: https://grafana.com/docs/grafana/latest/
