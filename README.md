@@ -1,3 +1,4 @@
+# monitoring_nonk8s-k8s
 This is monitoring solution deploy through kubernetes also you can dowload all file and follow installation from shot step as below,
 
 stack-lgm is core component (Loki, Grafana and Prometheus)
